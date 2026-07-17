@@ -231,7 +231,8 @@ fig_young_female_proba.png
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/RitaWang101/la-traffic-collision-analysis.git
+cd la-traffic-collision-analysis
 ```
 
 2. Install the required Python libraries.
@@ -249,7 +250,7 @@ Traffic_Collision_Data.csv
 4. Open the notebook.
 
 ```bash
-jupyter notebook "Final Codes.ipynb"
+jupyter notebook "la_traffic_collision_severity_analysis.ipynb"
 ```
 
 5. Run all cells from top to bottom.
@@ -257,7 +258,7 @@ jupyter notebook "Final Codes.ipynb"
 ## Project File
 
 ```text
-Final Codes.ipynb
+la_traffic_collision_severity_analysis.ipynb
 ```
 
 This notebook contains the full workflow, including data cleaning, exploratory analysis, spatial risk scoring, Random Forest modeling, model evaluation, and subgroup analysis.
